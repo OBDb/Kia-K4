@@ -100,6 +100,8 @@ test_cases:
     7E823001033101000AA
 - expected_values:
     KIA_22E004: 100
+    KIA_AUX_SOC: 0
+    KIA_AUX_SOH: 0
   response: |-
     7E8107C62E004FFFF01
     7E8217D0C1AAE11D91F
@@ -121,6 +123,8 @@ test_cases:
     7E821000000000000AA
 - expected_values:
     KIA_22E004: 100
+    KIA_AUX_SOC: 0
+    KIA_AUX_SOH: 0
   response: |-
     7E8107C62E004FFFF01
     7E8217D0E206710771C
@@ -205,6 +209,8 @@ test_cases:
     7E821000000000000AA
 - expected_values:
     KIA_22E004: 100
+    KIA_AUX_SOC: 0
+    KIA_AUX_SOH: 0
   response: |-
     7E8107C62E004FFFF01
     7E8217D231F6710841D
@@ -226,6 +232,8 @@ test_cases:
     7E821000000000000AA
 - expected_values:
     KIA_22E004: 100
+    KIA_AUX_SOC: 0
+    KIA_AUX_SOH: 0
   response: |-
     7E8107C62E004FFFF01
     7E8217D241AB3148620
