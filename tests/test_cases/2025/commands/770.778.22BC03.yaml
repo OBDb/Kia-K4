@@ -19,4 +19,14 @@ test_cases:
     KIA_TRUNK: 1
   response: |-
     778100862BC03D00000
+    778210001AAAAAAAAAA
+- expected_values:
+    KIA_DOOR_FL: 0
+    KIA_DOOR_FR: 0
+    KIA_DOOR_RL: 0
+    KIA_DOOR_RR: 0
+    KIA_HANDBRAKE: 0
+    KIA_TRUNK: 1
+  response: |-
+    778100862BC03D00000
     778210003AAAAAAAAAA
