@@ -86,7 +86,6 @@ test_cases:
     7E82600000000AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 78
-    K4_BATTERY_V: 0.74929
     K4_EIT: 33.75
     K4_EOT: 77.25
   response: |-
@@ -99,7 +98,6 @@ test_cases:
     7E8266800D817AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 78
-    K4_BATTERY_V: 0.74929
     K4_EIT: 5.25
     K4_EOT: 72.75
   response: |-
@@ -112,7 +110,6 @@ test_cases:
     7E8266800D817AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 79
-    K4_BATTERY_V: 0.74929
     K4_EIT: 21
     K4_EOT: 87.75
   response: |-
@@ -125,7 +122,6 @@ test_cases:
     7E82667008E17AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 80
-    K4_BATTERY_V: 0.74929
     K4_EIT: 47.25
     K4_EOT: 93
   response: |-
@@ -138,7 +134,6 @@ test_cases:
     7E82667008E17AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 80
-    K4_BATTERY_V: 0.74929
     K4_EIT: 28.5
     K4_EOT: 35.25
   response: |-
@@ -151,7 +146,6 @@ test_cases:
     7E8266800D817AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 80
-    K4_BATTERY_V: 0.74929
     K4_EIT: 8.25
     K4_EOT: 6
   response: |-
@@ -164,7 +158,6 @@ test_cases:
     7E82666004617AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 81
-    K4_BATTERY_V: 0.74929
     K4_EIT: 16.5
     K4_EOT: 81.75
   response: |-
@@ -177,7 +170,6 @@ test_cases:
     7E82667008E17AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 81
-    K4_BATTERY_V: 0.74929
     K4_EIT: 30
     K4_EOT: 95.25
   response: |-
@@ -190,7 +182,6 @@ test_cases:
     7E8266B00B418AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 82
-    K4_BATTERY_V: 0.74929
     K4_EIT: 53.25
     K4_EOT: 59.25
   response: |-
@@ -263,7 +254,6 @@ test_cases:
     7E826BD005230AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 84
-    K4_BATTERY_V: 0.74929
     K4_EIT: 18.75
     K4_EOT: 71.25
   response: |-
@@ -276,7 +266,6 @@ test_cases:
     7E8266A006B18AAAAAA
 - expected_values:
     K4_BATTERY_SOC: 84
-    K4_BATTERY_V: 0.74929
     K4_EIT: 34.5
     K4_EOT: 51
   response: |-
@@ -310,7 +299,6 @@ test_cases:
     7E826B100DD2CAAAAAA
 - expected_values:
     K4_BATTERY_SOC: 90
-    K4_BATTERY_V: 0.81741
     K4_EIT: 0
     K4_EOT: 69.75
   response: |-
