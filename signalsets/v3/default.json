@@ -453,7 +453,7 @@
   "signals": [
     {"id": "K4_MAF_RATE", "path": "Engine", "fmt": {"bix": 208, "len": 8, "blsb": true, "max": 10.8, "mul": 0.04239, "unit": "unknown" }, "name": "Mass air flow rate"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E011"}, "freq": 5, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "E011"}, "freq": 5,
   "signals": [
     {"id": "K4_CALC_OIL_T", "path": "Engine", "fmt": {"bix": 304, "len": 8, "max": 215, "min": -40, "add": -40, "nullmin": -40, "unit": "celsius" }, "name": "Calculated oil temperature"}
   ]},
